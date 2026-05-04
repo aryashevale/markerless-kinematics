@@ -1,0 +1,9 @@
+# Python Virtual Environment
+venv/
+__pycache__/
+
+# Ignore raw video files (too large for GitHub)
+data/raw/*.mp4
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
